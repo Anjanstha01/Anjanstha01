@@ -1,7 +1,7 @@
 
 ---
 
-👋 Hi, I’m @Anjanstha01
+👋 Hi, I’m Anjan Shrestha.
 
 👀 Passionate about building real-world applications and diving into the realms of AI—turning caffeine into code since 2019.
 
